@@ -491,7 +491,9 @@ header .icons2 a{
         float: right;
         margin-right: 20px;
     }
-
+   .menu .contenedor .titulo{
+        font-size: 85px;
+    }
 }
 
 @media screen and (max-width:401px){
