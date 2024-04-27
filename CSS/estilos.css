@@ -638,4 +638,11 @@ header .icons2 a{
         font-size:11px;
 }
 
+@media screen and (max-width:355px){
+    header .icons .instagram,
+    header .icons2 .instagram{
+        font-size: 10px;
+    }
+}
+
 
