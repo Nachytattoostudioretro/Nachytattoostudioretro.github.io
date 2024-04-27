@@ -433,6 +433,9 @@ header .icons2 a{
 }
 
 
+
+
+
 @media screen and (max-width : 500px){
     header .icons .instagram,
     header .icons2 .instagram{
@@ -478,6 +481,18 @@ header .icons2 a{
         position:absolute ;
     }
 }
+
+@media screen and (max-width:490px){
+
+    header .icons .instagram,
+    header .icons2 .instagram{
+        font-size: 15px;
+        margin-top: 130px;
+        float: right;
+        margin-right: 20px;
+    }
+
+}
 @media screen and (max-width:400px){
     header {
         height: 140px;
@@ -507,8 +522,8 @@ header .icons2 a{
 
     header .icons .instagram,
     header .icons2 .instagram{
-        font-size: 13px;
-        margin-top: 5px;
+        font-size: 10px;
+        margin-top: -10px;
     }
 
 
@@ -570,3 +585,4 @@ header .icons2 a{
     }
 
 }
+
